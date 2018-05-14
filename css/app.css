@@ -1,0 +1,35 @@
+body{
+	background-color:black;
+	background-image: url(https://www.solofondos.com/wp-content/uploads/2015/11/fondo.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed; 
+}
+
+.contenedor{
+	background-color:rgba(255,255,255,0.1);
+
+}
+
+.visited{
+	color:#FF7A2E;
+}
+
+.active{
+	color: white;
+	background: #FF7A2E;
+}
+
+h1, h2{
+	color: white;
+}
+h4{
+	color:white;
+}
+h5{
+	color: white;
+}
+
+p{
+	color: white;
+}
+
